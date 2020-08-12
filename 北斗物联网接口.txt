@@ -1,0 +1,7 @@
+
+头: 192.168.1.230:8019/iot/sensordata/
+
+拼接：
+ 1.  getSensorList 获取传感器列表
+ 2.  getSensorDataList 获取传感器数据列表 （曲线图上面的数据）
+ 3.  getSensorHistoryDataList 获取曲线数据

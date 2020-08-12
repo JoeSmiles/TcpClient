@@ -1,4 +1,4 @@
-package test1;
+package com.gaizka.test;
 
 import java.io.*;
 import java.net.ServerSocket;
